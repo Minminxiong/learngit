@@ -5,5 +5,5 @@ Git tracks changes.
 <<<<<<< HEAD
 creating a new branch is quick and simple!
 =======
-creating a new branch is quick AND simple!
+creating a new branch is quick and simple!
 >>>>>>> feature1
